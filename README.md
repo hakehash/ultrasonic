@@ -1,1 +1,2 @@
 # ultrasonic
+Raspberry Piと超音波距離センサHC-SR04を使ってロボットを制御するためのファイル群
